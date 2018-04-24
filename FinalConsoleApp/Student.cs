@@ -14,6 +14,7 @@ namespace FinalConsoleApp
         public string Major { get; set; }
 
         //Read only property
+        //test
         public string StudentName
         {
             get
